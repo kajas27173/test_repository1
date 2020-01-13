@@ -20,4 +20,4 @@ Git_tutorial
  4) Comit > Save changes (save edits or modifications)
  5) Pull Request > asking for QA, if anyone like it then merge the update into their code (proposing your code to someone)
       It shows what changes (add/sub) made from the original code
- 6) 
+ 6) Merge > confirming Pull requests (reviewing other's code and adding it to your Production code)
